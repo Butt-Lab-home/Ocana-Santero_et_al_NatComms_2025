@@ -1,8 +1,8 @@
 # Perinatal serotonin signalling dynamically influences the development of cortical GABAergic circuits with consequences for lifelong sensory encoding
 ## Authors: Gabriel Ocana-Santero, Hannah Warming, Veronica Munday, Heather A MacKay, Caius Gibeily, Christopher Hemingway, Jacqueline A Stacey, Abhishek Saha, Ivan P Lazarte, Anjali Bachetta, Fei Deng, Yulong Li, Adam M Packer, Trevor Sharp, Simon JB Butt
-\n
+
 ## Publication 2025
-\n
+
 ## Journal: Nature Communications
-\n
+
 ## Serotonin plays a prominent role in neurodevelopment, regulating processes from cell division to synaptic connectivity. Clinical studies suggest that alterations in serotonin signalling such as genetic polymorphisms or antidepressant exposure during pregnancy are risk factors for neurodevelopmental disorders. However, an understanding of how dysfunctional neuromodulation alters systems level activity over neocortical development is lacking. Here, we use a longitudinal imaging approach to investigate how genetics, pharmacology, and aversive experience disrupt state-dependent serotonin signalling with pathological consequences for sensory processing. We find that all three factors lead to increased neocortical serotonin levels during the initial postnatal period. Genetic deletion of the serotonin transporter or antidepressant dosing results in a switch from hypo- to hyper-cortical activity that arises as a consequence of altered cortical GABAergic microcircuitry. However, the trajectories of these manipulations differ with postnatal exposure to antidepressants having effects on adult sensory encoding. The latter is not seen in the genetic model despite a similar early phenotype, and a distinct influence of maternal genotype on the development of supragranular layers. These results reveal the dynamics and critical nature of serotonin signalling during perinatal life; pharmacological targeting of which can have profound life-long consequences for cognitive development of the offspring.
